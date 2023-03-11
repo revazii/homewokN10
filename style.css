@@ -1,0 +1,57 @@
+html,body{
+ margin: 0;
+ padding: 0;
+ box-sizing: 0;
+}
+.box1{
+    box-sizing: border-box;
+
+position: absolute;
+width: 562px;
+height: 818px;
+left: 439px;
+top: 88px;
+background: #FAFAFA;
+border: 1px solid #DCDCDC;
+border-radius: 20px;
+}
+img{
+    position: absolute;
+width: 237.95px;
+height: 184.57px;
+left: 156px;
+top: 76px;
+}
+.head1{
+    position: absolute;
+width: 273px;
+height: 40px;
+left: 56px;
+top: 311px;
+}
+.par1{
+    position: absolute;
+width: 443px;
+height: 311px;
+left: 56px;
+top: 396px;
+}
+hr{
+    position: absolute;
+    width: 443px;
+    height: 0px;
+    left: 56px;
+    top: 372px;
+    border: 1px solid #DDDDDD;
+}
+a{
+    position: absolute;
+width: 109px;
+height: 25px;
+left: 355px;
+top: 748px;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+color: #5076FF;
+}
